@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["article"],{1399:function(t,e,n){"use strict";n("ef4a")},"3ad6":function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"article-wrapper"},[n("h1",[t._v("ARTCILE "+t._s(t.id))])])},i=[],r={name:"Article",props:{id:{type:String,default:""}}},c=r,s=(n("1399"),n("2877")),l=Object(s["a"])(c,a,i,!1,null,null,null);e["default"]=l.exports},ef4a:function(t,e,n){}}]);
+//# sourceMappingURL=article.afabb9ca.js.map
